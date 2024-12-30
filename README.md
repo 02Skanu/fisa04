@@ -60,7 +60,7 @@ age=26
 
 [네이버](https://naver.com)
 
-![신짱구](https://github.com/user-attachments/assets/6178691d-6ffa-468a-82ce-f3dff7d8caf2)
+'''![신짱구](https://github.com/user-attachments/assets/6178691d-6ffa-468a-82ce-f3dff7d8caf2)'''
 
 ```![링크가 깨졌을 때 나올 안내메세지](링크)```
 
