@@ -43,13 +43,13 @@ unordered list
     - 그 아래 목록
     - 그 아래 목록
 
-강조하고 싶은 한줄 코드 'python'
+강조하고 싶은 한줄 코드 `python`
 
-'''python
+```python
 
 name="서관우"
-age="26"
-'''
+age=26
+```
 
 
 add new line
